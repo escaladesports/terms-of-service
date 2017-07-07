@@ -1,2 +1,3 @@
 /*
   X-XSS-Protection: 0
+  Access-Control-Allow-Origin: *
