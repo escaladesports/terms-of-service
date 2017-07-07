@@ -4,7 +4,12 @@
   "main": "index.js",
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
   "license": "MIT",
-  "scripts": {},
-  "devDependencies": {},
+  "scripts": {
+    "build": "pug src/index.pug --out dist && cp src/terms.md dist/terms.md"
+  },
+  "devDependencies": {
+    "jstransformer-markdown-it": "^2.0.0",
+    "pug-cli": "^1.0.0-alpha6"
+  },
   "dependencies": {}
 }
