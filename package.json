@@ -5,7 +5,7 @@
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
   "license": "MIT",
   "scripts": {
-    "build": "pug src/index.pug --out dist && cp src/terms.md dist/terms.md"
+    "build": "pug src/index.pug --out dist && cp src/terms.md dist/terms.md && cp src/_headers dist/_header"
   },
   "devDependencies": {
     "jstransformer-markdown-it": "^2.0.0",
