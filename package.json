@@ -1,11 +1,11 @@
 {
   "name": "terms-of-service",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "dist/index.html",
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
   "license": "MIT",
   "scripts": {
-    "build": "pug src/index.pug --out dist && cp src/terms.md dist/terms.md && cp src/_headers dist/_header"
+    "build": "pug src/index.pug --out dist"
   },
   "devDependencies": {
     "jstransformer-markdown-it": "^2.0.0",
