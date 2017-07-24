@@ -1,5 +1,6 @@
 ---
 title: Terms of Service
+permalink: /terms
 ---
 
 TERMS AND CONDITIONS
