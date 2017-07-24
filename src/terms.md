@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+---
+
 TERMS AND CONDITIONS
 
 We welcome you to our website (the "Website"). The Website is designed to provide information to sell products, as a resource regarding the products and to create a community of like-minded people interested in the topics we discuss (the "Products and Services"). The Website is owned by Indian Industries, Inc. d/b/a Escalade Sports. These terms and conditions apply to all websites, apps, products, services and content, provided by, operated by and/or hosted by Escalade Sports and its affiliates (collectively "Escalade Sports" and "Escalade Sports' Products and Services").  PLEASE READ VERY CAREFULLY THE FOLLOWING TERMS AND CONDITIONS FOR USE OF THE WEBSITE.
