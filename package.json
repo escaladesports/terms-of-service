@@ -1,6 +1,6 @@
 {
   "name": "terms-of-service",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "src/terms.md",
   "author": "Kennedy Rose <kennedy@escaladesports.com>",
   "license": "MIT",
